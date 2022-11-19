@@ -1,0 +1,16 @@
+{
+    "/Users/mbarbachov/Desktop/OCR_IMAGING/cases_hw.jpeg": {
+        "auto_rotate_confidence": 1.1920927533992653e-07,
+        "auto_rotate_degrees": 0,
+        "confidence": 0.9345703125,
+        "confidence_rate": 0.9345703125,
+        "image_height": 332,
+        "image_width": 850,
+        "is_handwritten": true,
+        "is_printed": false,
+        "latex_styled": "f(x)=\\left\\{\\begin{array}{ll}\nx^{2} & \\text { if } x<0 \\\\\n2 x & \\text { if } x \\geq 0\n\\end{array}\\right.",
+        "request_id": "2022_11_19_bff1d4b4ddf809017ea3g",
+        "text": "$f(x)=\\left\\{\\begin{array}{ll}x^{2} & \\text { if } x<0 \\\\ 2 x & \\text { if } x \\geq 0\\end{array}\\right.$",
+        "version": "RSK-M105"
+    }
+}
